@@ -1,4 +1,4 @@
-# ChatAppGUI
+# Simple Chat Application In JAVA
 
 A simple chat application with a graphical user interface (GUI) implemented in Java. This project includes both client and server components for real-time messaging over a network.
 
